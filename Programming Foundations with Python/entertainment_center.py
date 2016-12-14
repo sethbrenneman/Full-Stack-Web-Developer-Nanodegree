@@ -37,7 +37,7 @@ no_country = media.Movie("No Country for Old Men",
 
 
 # Combine the movies into a list (which the open_movies_page() method requires
-# as an arguemnt) and use fresh_tomoatoes.open_movies_page() to create the
+# as an argument) and use fresh_tomatoes.open_movies_page() to create the
 # open the HTML file to display the movies
 
 movies = [toy_story, avatar, gbu, apocalypse_now, the_sting, no_country]
